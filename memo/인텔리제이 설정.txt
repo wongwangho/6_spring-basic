@@ -1,0 +1,21 @@
+초기 ㅓ설정 
+	auto import
+		자동 임포트 옵션 활성화
+
+	File Encoding
+		3개 전부 utf-8 로 통일 
+	
+	CodeCompletion
+		대소문자를 구분할지 여부 체크!
+		체크를 하지 않아야 대소문자 구분하지 않음 
+		제일 위에 거 체크해제
+
+	Annotation processor
+		주석 처리기! 사용 활성화! 
+
+단축키 
+	ctrl + d : 한 줄 복사 
+	ctrl + x : 한 줄 삭제 및 잘라내기
+	shift + f6 : 이름 변경 (변수,메소드 등등)
+	ctrl + alt + l : 자동 줄 바꿈 
+	
